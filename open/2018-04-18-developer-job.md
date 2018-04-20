@@ -1,6 +1,7 @@
+![Beam logo](../res/beam-logo.png)
 
 # Developer wanted
-
+d
 [Apply through LinkedIn][21cc27de]
 
   [21cc27de]: https://www.linkedin.com/company/beam-energy-labs/ "Beam Energy Jobs on LinkedIn"
