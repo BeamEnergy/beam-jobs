@@ -1,7 +1,7 @@
 ![Beam logo](../res/beam-logo.png)
 
 # Developer wanted
-d
+
 [Apply through LinkedIn][21cc27de]
 
   [21cc27de]: https://www.linkedin.com/company/beam-energy-labs/ "Beam Energy Jobs on LinkedIn"
@@ -52,7 +52,7 @@ This is the full list of tools that you’ll learn on the job, but at a minimum 
 
 ### CULTURAL FIT
 
-* Most importantly we’re looking for a good fit for our tightnit little team:
+* Most importantly we’re looking for a good fit for our tight-nit little team:
 * Hardworking and focused: in a team and solo environment
 * Excited about the renewable energy revolution
 * Love technology and thirsty for new challenges in general
@@ -70,7 +70,7 @@ This is the full list of tools that you’ll learn on the job, but at a minimum 
 * Your projects will have a complete README, well formatted and with detailed instructions of how to run locally. Big bonus marks for using Docker!
 Where possible, you will have a running demo of the code online (check out Heroku or free tier on AWS)
 * AWS experience and competency
-* Our backend is all on AWS, so it’s important to have some proven experience with using * * Cognito (in particular) in conjunction with API Gateway and Lambda.
+* Our backend is all on AWS, so it’s important to have some proven experience with using Cognito (in particular) in conjunction with API Gateway and Lambda.
 
 ## HOW TO APPLY
 [Apply through LinkedIn][21cc27de]
