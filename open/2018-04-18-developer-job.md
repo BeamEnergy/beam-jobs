@@ -4,7 +4,7 @@
 
 [Apply through LinkedIn][21cc27de]
 
-  [21cc27de]: https://www.linkedin.com/company/beam-energy-labs/ "Beam Energy Jobs on LinkedIn"
+  [21cc27de]: https://www.linkedin.com/jobs/view/626376527/ "Beam Energy Jobs on LinkedIn"
 
 Contact: Nick Mitchell
 
@@ -75,4 +75,4 @@ Where possible, you will have a running demo of the code online (check out Herok
 ## HOW TO APPLY
 [Apply through LinkedIn][21cc27de]
 
-  [21cc27de]: https://www.linkedin.com/company/beam-energy-labs/ "Beam Energy Jobs on LinkedIn"
+  [21cc27de]: https://www.linkedin.com/jobs/view/626376527/ "Beam Energy Jobs on LinkedIn"
